@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## The original content was migrated to Sorkai
+https://github.com/Sorkai
+
 <!--
 **wangkai6688/wangkai6688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
